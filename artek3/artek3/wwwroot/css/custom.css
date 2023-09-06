@@ -1,0 +1,131 @@
+.rev_slider .caption, .rev_slider .tp-caption{
+	position: inherit;
+}
+.tparrows:before {
+	display: none;
+}
+@media only screen and (max-width: 600px){
+  .rev_slider h1{
+      font-size: 24px !important;
+  }
+  .rev_slider h3{
+      font-size: 14px !important;
+  }
+}
+.acym_form input.cell{
+	display: block;
+    width: 100%;
+    height: calc(1.5em + .75rem + 2px); 
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.acym_module_form label {
+    width: 100%;
+}
+.fixedmenu .navbar-nav .nav-link {
+    color: #26313c !important;
+} 
+.transparent-bg.darkcolor .btmagamenu { 
+    width: inherit;
+    margin: 0 auto;
+}
+.transparent-bg.darkcolor .navbar-nav .nav-link span,.transparent-bg.darkcolor .navbar-nav li.level1.parent > a:after, .transparent-bg.darkcolor .navbar-nav li.level1.parent > span.separator:after{
+    color: #26313c !important;
+}
+.bg-overlay {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100%;
+    height: 100%;
+    visibility: visible !important;
+}
+.tp-caption .html5vid {
+    width: 100%!important;
+    height: 100%!important;
+    top: 0 !important;
+}
+.tp-bullets, .tp-tabs, .tp-thumbs{
+	top: auto;
+}
+.bt-sflat{
+	position: relative;
+}
+.bt-flat-slidebg{
+	background-size: cover;
+    background-position: center center;
+    width: 100%;
+    height: 100%;
+}
+.dark-slider .bt-flat-content{
+	position: absolute;
+	top: 35%;
+	left: 40%;
+	text-align: center;
+} 
+#je_contact button[type="submit"], .qcbutton a.je_button {
+    -webkit-background-size: 200% auto;
+    background-size: 200% auto;
+    background-image: -webkit-gradient(linear, left top, right top, from(#5192e1), color-stop(51%, #23ced5), to(#5192e1));
+    background-image: -webkit-linear-gradient(left, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    background-image: -moz-linear-gradient(left, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    background-image: -o-linear-gradient(left, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    background-image: linear-gradient(to right, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    color: #fff;
+}
+#je_contact button[type="submit"]:hover, .qcbutton a.je_button:hover {
+    -webkit-background-size: 200% auto;
+    background-size: 200% auto;
+    background-image: -webkit-gradient(linear, left top, right top, from(#5192e1), color-stop(51%, #23ced5), to(#5192e1));
+    background-image: -webkit-linear-gradient(left, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    background-image: -moz-linear-gradient(left, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    background-image: -o-linear-gradient(left, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    background-image: linear-gradient(to right, #5192e1 0%, #23ced5 51%, #5192e1 100%);
+    color: #fff;
+}
+#je_contact button[type="submit"]:hover, .qcbutton a.je_button:hover{
+	background-position: right center !important;
+}
+#je_contact button[type="submit"]{
+	padding: .8rem 2.25rem !important;
+    line-height: 1  !important;
+    height: auto;
+}
+.getin_form .form-control {
+    border: 1px solid #ececec !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    height: 41px !important;
+    color: #b6b8ba !important;
+    font-size: 0.875rem !important;
+	background: #fff !important;
+}
+.btfull-map{
+	margin-bottom:-5px;
+}
+.getin_form .controls input {
+    border: 1px solid #ececec !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    height: 41px !important;
+    color: #b6b8ba !important;
+    font-size: 0.875rem !important;
+    background: #fff !important;
+    width: 100%;
+    font-weight: 400;
+    line-height: 1.5;
+}
+.single_post .post { 
+    width: 70px;
+}
+.no_padding_top{
+	padding-top: 0;
+}

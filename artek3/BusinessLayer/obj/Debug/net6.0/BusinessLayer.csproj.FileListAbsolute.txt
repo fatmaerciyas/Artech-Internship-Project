@@ -1,0 +1,17 @@
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\refint\BusinessLayer.dll
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\fatma\Desktop\Artek\artek3\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete

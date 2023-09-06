@@ -1,0 +1,1057 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\artek3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\artek3.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\New.whtt",
+      "PackagePath": "staticwebassets\\New.whtt"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\arrow_left.png",
+      "PackagePath": "staticwebassets\\assets\\arrow_left.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\arrow_left2.png",
+      "PackagePath": "staticwebassets\\assets\\arrow_left2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\arrow_right.png",
+      "PackagePath": "staticwebassets\\assets\\arrow_right.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\arrow_right2.png",
+      "PackagePath": "staticwebassets\\assets\\arrow_right2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\arrowleft.png",
+      "PackagePath": "staticwebassets\\assets\\arrowleft.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\arrowright.png",
+      "PackagePath": "staticwebassets\\assets\\arrowright.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\boxed_bgtile.png",
+      "PackagePath": "staticwebassets\\assets\\boxed_bgtile.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\bullet.png",
+      "PackagePath": "staticwebassets\\assets\\bullet.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\bullet_boxed.png",
+      "PackagePath": "staticwebassets\\assets\\bullet_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\bullets.png",
+      "PackagePath": "staticwebassets\\assets\\bullets.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\bullets2.png",
+      "PackagePath": "staticwebassets\\assets\\bullets2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\coloredbg.png",
+      "PackagePath": "staticwebassets\\assets\\coloredbg.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\gridtile.png",
+      "PackagePath": "staticwebassets\\assets\\gridtile.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\gridtile_3x3.png",
+      "PackagePath": "staticwebassets\\assets\\gridtile_3x3.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\gridtile_3x3_white.png",
+      "PackagePath": "staticwebassets\\assets\\gridtile_3x3_white.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\gridtile_white.png",
+      "PackagePath": "staticwebassets\\assets\\gridtile_white.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\large_left.png",
+      "PackagePath": "staticwebassets\\assets\\large_left.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\large_right.png",
+      "PackagePath": "staticwebassets\\assets\\large_right.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\loader.gif",
+      "PackagePath": "staticwebassets\\assets\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\navigdots.png",
+      "PackagePath": "staticwebassets\\assets\\navigdots.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\navigdots_bgtile.png",
+      "PackagePath": "staticwebassets\\assets\\navigdots_bgtile.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\shadow1.png",
+      "PackagePath": "staticwebassets\\assets\\shadow1.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\shadow2.png",
+      "PackagePath": "staticwebassets\\assets\\shadow2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\shadow3.png",
+      "PackagePath": "staticwebassets\\assets\\shadow3.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\small_left.png",
+      "PackagePath": "staticwebassets\\assets\\small_left.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\small_left_boxed.png",
+      "PackagePath": "staticwebassets\\assets\\small_left_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\small_right.png",
+      "PackagePath": "staticwebassets\\assets\\small_right.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\assets\\small_right_boxed.png",
+      "PackagePath": "staticwebassets\\assets\\small_right_boxed.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\assets\\coloredbg.html",
+      "PackagePath": "staticwebassets\\css\\assets\\coloredbg.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\assets\\gridtile.html",
+      "PackagePath": "staticwebassets\\css\\assets\\gridtile.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\assets\\gridtile_3x3.html",
+      "PackagePath": "staticwebassets\\css\\assets\\gridtile_3x3.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\assets\\gridtile_3x3_white.html",
+      "PackagePath": "staticwebassets\\css\\assets\\gridtile_3x3_white.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\assets\\gridtile_white.html",
+      "PackagePath": "staticwebassets\\css\\assets\\gridtile_white.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\assets\\loader.html",
+      "PackagePath": "staticwebassets\\css\\assets\\loader.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\cubeportfolio.min.css",
+      "PackagePath": "staticwebassets\\css\\cubeportfolio.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\custom.css",
+      "PackagePath": "staticwebassets\\css\\custom.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\dynamic-captions.css",
+      "PackagePath": "staticwebassets\\css\\dynamic-captions.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\k240c7.css",
+      "PackagePath": "staticwebassets\\css\\k240c7.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\maximenuresponsiveck.css",
+      "PackagePath": "staticwebassets\\css\\maximenuresponsiveck.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\modal.css",
+      "PackagePath": "staticwebassets\\css\\modal.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\module.min879d.css",
+      "PackagePath": "staticwebassets\\css\\module.min879d.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\morphext.css",
+      "PackagePath": "staticwebassets\\css\\morphext.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\owl.video.play.html",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\revolution\\closedhand.html",
+      "PackagePath": "staticwebassets\\css\\revolution\\closedhand.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\revolution\\navigation.css",
+      "PackagePath": "staticwebassets\\css\\revolution\\navigation.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\revolution\\openhand.html",
+      "PackagePath": "staticwebassets\\css\\revolution\\openhand.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\revolution\\settings.css",
+      "PackagePath": "staticwebassets\\css\\revolution\\settings.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\static-captions.css",
+      "PackagePath": "staticwebassets\\css\\static-captions.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\css\\tooltipster.min.css",
+      "PackagePath": "staticwebassets\\css\\tooltipster.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\2.png",
+      "PackagePath": "staticwebassets\\images\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\3.png",
+      "PackagePath": "staticwebassets\\images\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\4.png",
+      "PackagePath": "staticwebassets\\images\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\5.png",
+      "PackagePath": "staticwebassets\\images\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\ARtech.png",
+      "PackagePath": "staticwebassets\\images\\ARtech.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\ARtech_logo.png",
+      "PackagePath": "staticwebassets\\images\\ARtech_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\awesome-feature.png",
+      "PackagePath": "staticwebassets\\images\\awesome-feature.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\banner1-1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\banner1-2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\banner1-3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\banner9.jpg",
+      "PackagePath": "staticwebassets\\images\\banner9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\bg-flat-header.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-flat-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\bg-part-header.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-part-header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\bg-single-5.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-single-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\bg-single-66.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-single-66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\bg-video-section.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-video-section.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\bottom-right.png",
+      "PackagePath": "staticwebassets\\images\\bottom-right.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\counter-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\counter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_0.png",
+      "PackagePath": "staticwebassets\\images\\img_0.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_1.png",
+      "PackagePath": "staticwebassets\\images\\img_1.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_2.png",
+      "PackagePath": "staticwebassets\\images\\img_2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_3.png",
+      "PackagePath": "staticwebassets\\images\\img_3.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_4.png",
+      "PackagePath": "staticwebassets\\images\\img_4.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_5.png",
+      "PackagePath": "staticwebassets\\images\\img_5.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_6.png",
+      "PackagePath": "staticwebassets\\images\\img_6.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_7.png",
+      "PackagePath": "staticwebassets\\images\\img_7.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_8.png",
+      "PackagePath": "staticwebassets\\images\\img_8.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\img_9.png",
+      "PackagePath": "staticwebassets\\images\\img_9.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\iphone-slide-lock.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-slide-lock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\iphone-slide1.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-slide1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\iphone-slide2.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-slide2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\iphone-slide3.jpg",
+      "PackagePath": "staticwebassets\\images\\iphone-slide3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\iphone.png",
+      "PackagePath": "staticwebassets\\images\\iphone.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\laptop.png",
+      "PackagePath": "staticwebassets\\images\\laptop.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\logo-1.png",
+      "PackagePath": "staticwebassets\\images\\logo-1.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\logo-2.png",
+      "PackagePath": "staticwebassets\\images\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\logo-3.png",
+      "PackagePath": "staticwebassets\\images\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\logo-4.png",
+      "PackagePath": "staticwebassets\\images\\logo-4.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\logo-5.png",
+      "PackagePath": "staticwebassets\\images\\logo-5.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\logo-transparent.png",
+      "PackagePath": "staticwebassets\\images\\logo-transparent.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\papers.jpg",
+      "PackagePath": "staticwebassets\\images\\papers.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\pencil.png",
+      "PackagePath": "staticwebassets\\images\\pencil.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\slider-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\slider-img1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\startup-1.jpg",
+      "PackagePath": "staticwebassets\\images\\startup-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\sınıf0-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\sınıf0-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\sınıf1-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\sınıf1-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\sınıf2-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\sınıf2-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\sınıf3-removebg-preview.png",
+      "PackagePath": "staticwebassets\\images\\sınıf3-removebg-preview.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\team-1.jpg",
+      "PackagePath": "staticwebassets\\images\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\team-2.jpg",
+      "PackagePath": "staticwebassets\\images\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\team-3.jpg",
+      "PackagePath": "staticwebassets\\images\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\team-4.jpg",
+      "PackagePath": "staticwebassets\\images\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\top-left.png",
+      "PackagePath": "staticwebassets\\images\\top-left.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\top-right.png",
+      "PackagePath": "staticwebassets\\images\\top-right.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\transparent-bg.png",
+      "PackagePath": "staticwebassets\\images\\transparent-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\images\\video\\video3.mp4",
+      "PackagePath": "staticwebassets\\images\\video\\video3.mp4"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\captionb049.js",
+      "PackagePath": "staticwebassets\\js\\captionb049.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\functions.js",
+      "PackagePath": "staticwebassets\\js\\functions.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery-countTo.js",
+      "PackagePath": "staticwebassets\\js\\jquery-countTo.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery-migrate.minb049.js",
+      "PackagePath": "staticwebassets\\js\\jquery-migrate.minb049.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery-noconflictb049.js",
+      "PackagePath": "staticwebassets\\js\\jquery-noconflictb049.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery.cubeportfolio.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.cubeportfolio.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery.minb049.js",
+      "PackagePath": "staticwebassets\\js\\jquery.minb049.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery.themepunch.revolution.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.themepunch.revolution.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery.themepunch.tools.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.themepunch.tools.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\jquery.ui.core.minb049.js",
+      "PackagePath": "staticwebassets\\js\\jquery.ui.core.minb049.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\k2.frontend22a7.js",
+      "PackagePath": "staticwebassets\\js\\k2.frontend22a7.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\lottie.js",
+      "PackagePath": "staticwebassets\\js\\lottie.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\maximenuck.v8.js",
+      "PackagePath": "staticwebassets\\js\\maximenuck.v8.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\module.min879d.js",
+      "PackagePath": "staticwebassets\\js\\module.min879d.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\morphext.min.js",
+      "PackagePath": "staticwebassets\\js\\morphext.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\parallaxie.js",
+      "PackagePath": "staticwebassets\\js\\parallaxie.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\particles.min.js",
+      "PackagePath": "staticwebassets\\js\\particles.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\propper.min.js",
+      "PackagePath": "staticwebassets\\js\\propper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\tooltipster.min.js",
+      "PackagePath": "staticwebassets\\js\\tooltipster.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\typed.min.js",
+      "PackagePath": "staticwebassets\\js\\typed.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\js\\wow.js",
+      "PackagePath": "staticwebassets\\js\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\banner9.html",
+      "PackagePath": "staticwebassets\\pages\\banner9.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-404-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-404-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-about-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-about-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-blog-detail-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-blog-detail-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-blog-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-blog-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-blog2-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-blog2-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-cart-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-cart-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-coming-soon-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-coming-soon-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-contact-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-contact-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-faq-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-faq-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-gallery-detail-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-gallery-detail-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-gallery-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-gallery-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-parallax-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-parallax-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-part-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-part-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-pricing-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-pricing-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-reset-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-reset-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-service-detail-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-service-detail-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-service-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-service-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-shop-detail-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-shop-detail-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-shop-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-shop-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-sign-in-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-sign-in-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-sign-up-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-sign-up-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-single-1.html",
+      "PackagePath": "staticwebassets\\pages\\bg-single-1.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-single-2.html",
+      "PackagePath": "staticwebassets\\pages\\bg-single-2.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-single-3.html",
+      "PackagePath": "staticwebassets\\pages\\bg-single-3.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-single-4.html",
+      "PackagePath": "staticwebassets\\pages\\bg-single-4.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-single-5.html",
+      "PackagePath": "staticwebassets\\pages\\bg-single-5.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-single-6.html",
+      "PackagePath": "staticwebassets\\pages\\bg-single-6.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-single-7.html",
+      "PackagePath": "staticwebassets\\pages\\bg-single-7.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-team-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-team-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\bg-testimonial-header.html",
+      "PackagePath": "staticwebassets\\pages\\bg-testimonial-header.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\counter-bg.html",
+      "PackagePath": "staticwebassets\\pages\\counter-bg.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\interactive-particles.html",
+      "PackagePath": "staticwebassets\\pages\\interactive-particles.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\interactive-particles7b17",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\interactive-particlesc0d0",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\leftarrow.html",
+      "PackagePath": "staticwebassets\\pages\\leftarrow.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-particles.html",
+      "PackagePath": "staticwebassets\\pages\\onepage-particles.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-particles7b17",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-particlesc0d0",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-slider.html",
+      "PackagePath": "staticwebassets\\pages\\onepage-slider.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-slider7b17",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-sliderc0d0",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-typed.html",
+      "PackagePath": "staticwebassets\\pages\\onepage-typed.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-typed7b17",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-typedc0d0",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-video.html",
+      "PackagePath": "staticwebassets\\pages\\onepage-video.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-video7b17",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\onepage-videoc0d0",
+      "PackagePath": "staticwebassets\\pages"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\rightarrow.html",
+      "PackagePath": "staticwebassets\\pages\\rightarrow.html"
+    },
+    {
+      "Id": "C:\\Users\\fatma\\Desktop\\Artek\\artek3\\artek3\\wwwroot\\pages\\testimonial-bg.html",
+      "PackagePath": "staticwebassets\\pages\\testimonial-bg.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.artek3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.artek3.props",
+      "PackagePath": "build\\artek3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.artek3.props",
+      "PackagePath": "buildMultiTargeting\\artek3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.artek3.props",
+      "PackagePath": "buildTransitive\\artek3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,32 @@
+
+
+01.06.23 - 07.06.23
+--Upgrade .net 5 to 6
+--Create IGenericService
+--Create Admin Area
+--Method names wrong
+--regions written Turkish fix them 
+
+
+07.06.23 - 14.06.23
+--Fix all Front End
+
+Then;
+--Add Identity
+
+
+14.06.23 - 18.06.23
+--Web API
+
+
+---Final exams---
+
+Then;
+----Dtos, Mapping etc.
+
+
+
+Last Step;
+--Add React 
+
+

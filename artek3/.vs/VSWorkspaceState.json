@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\artek3",
+    "\\artek3\\Views",
+    "\\artek3\\Views\\Home",
+    "\\BusinessLayer",
+    "\\DataAccessLayer",
+    "\\DataAccessLayer\\Concrete\\Data",
+    "\\EntityLayer",
+    "\\EntityLayer\\Concrete"
+  ],
+  "SelectedNode": "\\artek3.sln",
+  "PreviewInSolutionExplorer": false
+}
